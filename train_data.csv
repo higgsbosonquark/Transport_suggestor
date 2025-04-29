@@ -1,0 +1,11 @@
+source_city,destination_city,train_name,fare
+Delhi,Mumbai,Rajdhani Express,2200
+Delhi,Jaipur,Ajmer Shatabdi,700
+Bangalore,Chennai,Lalbagh Express,650
+Mumbai,Pune,Deccan Queen,500
+Kolkata,Patna,Howrah Express,750
+Hyderabad,Bangalore,Kacheguda Express,850
+Chennai,Hyderabad,Charminar Express,900
+Ahmedabad,Mumbai,Gujarat Mail,800
+Lucknow,Kanpur,Shatabdi Express,150
+Delhi,Chandigarh,Kalka Shatabdi,600

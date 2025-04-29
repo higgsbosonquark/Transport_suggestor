@@ -1,0 +1,11 @@
+pickup_city,drop_city,distance,duration,fare_amount
+Delhi,Mumbai,1400,1200,21000
+Delhi,Jaipur,280,240,4200
+Bangalore,Chennai,350,300,5250
+Mumbai,Pune,150,120,2250
+Kolkata,Patna,600,540,9000
+Hyderabad,Bangalore,570,480,8550
+Chennai,Hyderabad,630,540,9450
+Ahmedabad,Mumbai,530,420,7950
+Lucknow,Kanpur,90,75,1350
+Delhi,Chandigarh,250,210,3750

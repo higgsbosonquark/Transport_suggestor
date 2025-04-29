@@ -1,0 +1,11 @@
+source_city,destination_city,airline,price
+Delhi,Mumbai,IndiGo,4500
+Delhi,Jaipur,Air India,3200
+Bangalore,Chennai,SpiceJet,3500
+Mumbai,Pune,Vistara,2800
+Kolkata,Patna,IndiGo,4200
+Hyderabad,Bangalore,Air Asia,3700
+Chennai,Hyderabad,Vistara,3900
+Ahmedabad,Mumbai,GoAir,3300
+Lucknow,Kanpur,SpiceJet,2500
+Delhi,Chandigarh,IndiGo,2700
